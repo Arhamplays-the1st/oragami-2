@@ -23,7 +23,7 @@ a:link{
 }
 
 /*a:old*/
-a:clicked
+a:clicked {
 /*a:seen{*/
 /*a:visited{*/
     color: #ffffff;
